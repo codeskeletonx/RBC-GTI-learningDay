@@ -11,5 +11,5 @@
 # Merge pull request -> This branch has no conflicts
 # But if changes requested are required then merge cannot happen
 # 5 people max can review it
-# Can also include admins so everyone is subjected to the same rules
+# Can also include admins so everyone is subjected to the same rules 
 # ####################################################################################################################
